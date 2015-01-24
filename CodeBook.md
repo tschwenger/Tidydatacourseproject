@@ -53,7 +53,7 @@ The "melt" function is then used to convert "meansstddata" into molten data fram
 
 "tidy.sub.data" is then created by using the dcast function.
 
-Hopefully this explains everything
+Hopefully this explains everything that you need to reproduce this project and explains any gaps
 
 
 
